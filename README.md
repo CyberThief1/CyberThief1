@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/CyberThief1">Programmer</a>, <a href="https://www.linkedin.com/in/Brianmendez/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
+<h1>Hi, I'm Brian Mendez! <br/><a href="https://github.com/CyberThief1">Programmer</a>, <a href="https://www.linkedin.com/in/Brianmendez/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/">YouTuber</a></h1>
 
 <h2>👨‍💻Portfolio Projects:</h2>
 
